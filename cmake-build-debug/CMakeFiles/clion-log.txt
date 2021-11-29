@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Projects\Visualizer
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Compiling with support for: wasapi
+-- Using Win32 for window creation
+-- Attempting auto locate Vulkan using CMake......
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Projects/Visualizer/cmake-build-debug

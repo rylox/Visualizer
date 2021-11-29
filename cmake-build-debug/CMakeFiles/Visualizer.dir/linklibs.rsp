@@ -1,0 +1,1 @@
+  -L/Bin  -L/Lib  external/glfw-3.3.2/src/libglfw3d.a C:/VulkanSDK/1.2.162.1/Lib/vulkan-1.lib external/rtaudio/librtaudiod.a -lksuser -lmfplat -lmfuuid -lwmcodecdspuuid -lwinmm -lole32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
